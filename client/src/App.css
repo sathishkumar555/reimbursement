@@ -1,0 +1,66 @@
+.App {
+  text-align: center;
+  width: 85%;
+  margin: auto;
+  color: #fff;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  /* color: white; */
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.login{
+  position: absolute;
+  top: 50%;
+  transform: translate(0, -50%);
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+  color: #fff;
+}
+
+.login-btn{
+  cursor: pointer;
+}
+
+.employee{
+
+}
+.table{
+  color: #fff !important;
+  margin-top: 20px;
+}
+.btn-secondary{
+  padding: 5px 10px;
+}
+.balance{
+  position: absolute;
+  right: 140px;
+  top: 15px;
+
+}
+.title{
+    font-size: 22px;
+    color: aqua;
+    font-weight: 700;
+}
+.dashboard-title{
+  font-size: 17px;
+  font-weight: 600px;
+}
